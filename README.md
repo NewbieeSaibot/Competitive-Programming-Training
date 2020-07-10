@@ -1,4 +1,4 @@
-# Competitive Programming 
+# Competitive Programming Training
 
 > Short Description
 
