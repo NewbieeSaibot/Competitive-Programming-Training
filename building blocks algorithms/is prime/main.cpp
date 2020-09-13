@@ -3,7 +3,10 @@
 using namespace std;
 
 bool is_prime(long long number){
-    for(long long i=2;i<=number/i;i++){
+    if(number==1 || (number!=2 && number%2==0)){
+        return false;
+    }
+    for(long long i=3; i*i<=number; i+=2){
         if(number%i==0){
             //cout << "divisor " << i << endl;
             return false;
