@@ -3,7 +3,7 @@
 > Short Description
 
 Hi, I'm Tobias Rossi Müller and this is my repository of competitive programming codes. If you liked the content consider giving it a star.
-I'm just a novice training for ICPC and code interviews, so the content is not as high level as it can be found on the internet, but it's still a good way to keep your workouts more organized. This solutions are from codeforces problems (https://codeforces.com/). Another cool repository of a friend and teammate is https://github.com/GabrielEstevam/icpc_contest_training. The solutions of this repository are from https://www.urionlinejudge.com.br/ website.
+I'm just a novice training for ICPC and code interviews, so the content is not as high level as it can be found on the internet, but it's still a good way to keep your workouts more organized. This solutions are from codeforces problems (https://codeforces.com/). Another cool repository of a friend and teammate is https://github.com/GabrielEstevam/icpc_contest_training. The solutions of his repository are from https://www.urionlinejudge.com.br/ website.
 
 > ICPC
 
